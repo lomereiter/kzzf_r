@@ -1,5 +1,4 @@
 namespace Xmms {
-    // этот ёбаный пиздец необходимо переписать нахуй
     public class FetchInfo {
         S4.FetchSpec _fetch_spec;
         public S4.FetchSpec fetch_spec {

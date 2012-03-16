@@ -1,0 +1,3 @@
+[submodule "lib/s4"]
+	path = lib/s4
+	url = git://git.xmms.se/xmms2/s4.git

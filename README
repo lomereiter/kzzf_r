@@ -1,0 +1,2 @@
+first, build s4:
+    cd lib/s4 && ./waf configure && ./waf build.
